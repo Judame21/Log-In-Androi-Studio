@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Log In</string>
+    <string name="ingresar_text">INGRESAR</string>
+    <string name="usuerio_text">Usuario</string>
+    <string name="contraseña_text">Contraseña</string>
+    <string name="inicio_sesion_text">INICIO DE SESIÓN</string>
+</resources>
